@@ -1,0 +1,15 @@
+D:\javaEE\sga-jee-web_3.0\src\main\java\com\jcr\sga\domain\Pessoa.java
+D:\javaEE\sga-jee-web_3.0\src\main\java\com\jcr\sga\domain\PessoaDAOImp.java
+D:\javaEE\sga-jee-web_3.0\src\main\java\com\jcr\sga\cliente\ciclovida\PersistirObjetoJPA.java
+D:\javaEE\sga-jee-web_3.0\src\main\java\com\jcr\sga\domain\UsuarioDAOImp.java
+D:\javaEE\sga-jee-web_3.0\src\main\java\dao\UsuarioDAO.java
+D:\javaEE\sga-jee-web_3.0\src\main\java\com\jcr\sga\service\PessoaServiceImpl.java
+D:\javaEE\sga-jee-web_3.0\src\main\java\com\jcr\sga\service\PessoaService.java
+D:\javaEE\sga-jee-web_3.0\src\main\java\com\jcr\sgc\web\PessoaServlet.java
+D:\javaEE\sga-jee-web_3.0\src\main\java\com\jcr\sga\service\UsuarioServiceRemote.java
+D:\javaEE\sga-jee-web_3.0\src\main\java\com\jcr\sgc\web\UsuarioServlet.java
+D:\javaEE\sga-jee-web_3.0\src\main\java\com\jcr\sga\service\UsuarioServiceImpl.java
+D:\javaEE\sga-jee-web_3.0\src\main\java\com\jcr\sga\service\PessoaServiceRemote.java
+D:\javaEE\sga-jee-web_3.0\src\main\java\com\jcr\sga\domain\Usuario.java
+D:\javaEE\sga-jee-web_3.0\src\main\java\com\jcr\sga\service\UsuarioService.java
+D:\javaEE\sga-jee-web_3.0\src\main\java\dao\PessoaDAO.java
